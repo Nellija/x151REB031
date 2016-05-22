@@ -21,6 +21,34 @@ sveiks
 </html>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #2 Darbs / Chuska
 
 int PIN_SCE = 6;//SS
