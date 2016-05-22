@@ -17,8 +17,8 @@ sveiks
 <img src="//lh6.googleusercontent.com/-p0gRiB8N9Js/V0Ijv8vokXI/AAAAAAAAACc/hAW7D-x71qAamKJIHVs_a$
 <iframe width="853" height="480" src="https://www.youtube.com/embed/S_csgnCEQHU" frameborder="0"$
 </html>
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#2 Darbs / Chuska
+
+# Chuska
 
 int PIN_SCE = 6;//SS
 int PIN_RESET = 7;
