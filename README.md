@@ -1,33 +1,17 @@
 #151REB031
-
-#1 Darbs /  Majas lappa
------------------------------------------------
-<html>
-<head>
-<title>
-sveiks
-</title>
-</head>
-<body>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v0KSqLMpPI4" frameborder="0"$
-<a href="http://www.w3schools.com"> W3 skola.html </a>
-<img src=le.lv/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwiLrvvk75TLAhXJDZoKHX3OCqMQj$
-<a href="https://213.175.92.37/~x151REB031"> Mana drauga studiju lapa</a>
-
-<h1>"A place for resistor"</h1>
-<img src="//lh6.googleusercontent.com/-p0gRiB8N9Js/V0Ijv8vokXI/AAAAAAAAACc/hAW7D-x71qAamKJIHVs_a$
-<iframe width="853" height="480" src="https://www.youtube.com/embed/S_csgnCEQHU" frameborder="0"$
-</html>
-
-# Chuska
----------------------------------------------
-int PIN_SCE = 6;//SS
+int PIN_SCE = 6;
+//SS
 int PIN_RESET = 7;
-int PIN_DC  = 5;// data
-int PIN_SDIN = 4 ;//MOSI  SIMO
-int PIN_SCLK =3 ;//CLK SCLK
-int PIN_BL =9 ;//BL LED
-int PIN_VCC =2 ;//Vcc +-
+int PIN_DC  = 5;
+// data
+int PIN_SDIN = 4 ;
+//MOSI  SIMO
+int PIN_SCLK =3 ;
+//CLK SCLK
+int PIN_BL =9 ;
+//BL LED
+int PIN_VCC =2 ;
+//Vcc +-
 #define LCD_C LOW //command
 #define LCD_D HIGH //data high command low.
 #define LCD_X 84 ///character area //
@@ -169,3 +153,25 @@ void loop(){
    
     delay(2000);
 }
+
+#1 Darbs /  Majas lappa
+
+<html>
+<head>
+<title>
+sveiks
+</title>
+</head>
+<body>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v0KSqLMpPI4" frameborder="0"$
+<a href="http://www.w3schools.com"> W3 skola.html </a>
+<img src=le.lv/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwiLrvvk75TLAhXJDZoKHX3OCqMQj$
+<a href="https://213.175.92.37/~x151REB031"> Mana drauga studiju lapa</a>
+
+<h1>"A place for resistor"</h1>
+<img src="//lh6.googleusercontent.com/-p0gRiB8N9Js/V0Ijv8vokXI/AAAAAAAAACc/hAW7D-x71qAamKJIHVs_a$
+<iframe width="853" height="480" src="https://www.youtube.com/embed/S_csgnCEQHU" frameborder="0"$
+</html>
+
+# Chuska
+-------------------------------------------
