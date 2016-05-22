@@ -1,6 +1,7 @@
+#151REB031
 
 #1 Darbs /  Majas lappa
-
+-----------------------------------------------
 <html>
 <head>
 <title>
@@ -19,7 +20,7 @@ sveiks
 </html>
 
 # Chuska
-
+---------------------------------------------
 int PIN_SCE = 6;//SS
 int PIN_RESET = 7;
 int PIN_DC  = 5;// data
